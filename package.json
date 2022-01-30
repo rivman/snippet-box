@@ -33,7 +33,8 @@
     "express": "*",
     "sequelize": "*",
     "sqlite3": "*",
-    "umzug": "*"
+    "umzug": "*",
+    "react-scripts":"*"
   },
   "engines": {
     "node": "*"
